@@ -24,7 +24,7 @@
 
 1️⃣ Clone Repository
 
-git clone https://github.com/MasSan/excel-csv-merger-go.git
+git clone https://github.com/santoso-py/go-excelcsv-merger.git
 cd excel-csv-merger-go
 
 2️⃣ Install Dependencies
